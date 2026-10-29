@@ -1,0 +1,3 @@
+[submodule "codecrafters-dl"]
+	path = codecrafters-dl
+	url = https://github.com/wholemealbaby/codecrafters-dl.git
