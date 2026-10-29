@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-glow ~/Documents/ml/titanic/docs/matplotlib_cheatsheet.md
+glow ~/Documents/ml/docs/matplotlib_cheatsheet.md

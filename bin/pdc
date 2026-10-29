@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-glow ~/Documents/ml/titanic/docs/pandas_cheatsheet.md
+glow ~/Documents/ml/docs/pandas_cheatsheet.md
